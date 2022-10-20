@@ -1,0 +1,22 @@
+.Home {
+    background-color: black;
+  }
+
+.Carousel {
+    margin: center;
+}
+
+.CarouselDes {
+  height: 50px;
+  bottom: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  LINE-HEIGHT: 10PX;
+}
+
+.ListItem {
+  padding-left: 500px;
+  margin: center;
+  text-align :left;
+}

@@ -1,0 +1,28 @@
+.search {
+    margin-top: 10px;
+  }
+
+  .MovieItems {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 50px;
+    margin: 10px;
+    text-shadow: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  
+  }
+  
+  .MovieItems img {
+    width: 180px;
+    height: 240px;
+  }
+  
+  .MovieItems:hover {
+    transform: rotate(1deg) scale(1.03);
+    opacity:0.9;
+  }
+  
+  .MovieItems div {
+    margin-top: 10px;
+  }
